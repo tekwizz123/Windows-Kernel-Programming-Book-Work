@@ -1,0 +1,8 @@
+﻿  Building 'SampleDriverChapter2' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Sample.cpp
+  SampleDriverChapter2.vcxproj -> C:\Users\test\source\repos\SampleDriverChapter2\x64\Debug\SampleDriverChapter2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\test\source\repos\SampleDriverChapter2\x64\Debug\SampleDriverChapter2.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
